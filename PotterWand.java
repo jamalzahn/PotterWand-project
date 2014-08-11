@@ -2,6 +2,7 @@
 import java.util.*;
 public class PotterWand
 {	
+	//github comment test
 	public static void main(String[] args)
 	{
 		//create new wand
